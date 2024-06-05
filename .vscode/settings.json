@@ -71,5 +71,6 @@
         "valarray": "cpp",
         "queue": "cpp"
     },
-    "cSpell.words": ["Subarray"]
+    "cSpell.words": ["Subarray"],
+    "C_Cpp.errorSquiggles": "enabled"
 }
